@@ -7,3 +7,4 @@ So far, we have released the following two datasets for underwater object detect
 - [DUO](https://github.com/chongweiliu/DUO)  for underwater object detection. 
 - [DUT-USEG](https://github.com/baxiyi/DUT-USEG) for underwater semantic segmentation.
 
+This project will continue to be updated!
